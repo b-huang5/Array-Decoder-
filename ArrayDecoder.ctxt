@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ArrayDecoder
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArrayDecoder\ here.\r\n\r\n\ @author\ Brian\ Huang\r\n\ @version\ 9/17/19\r\n
+comment1.params=array\ gap
+comment1.target=ArrayDecoder(int[],\ int)
+comment2.params=
+comment2.target=int\ find11()
+comment3.params=
+comment3.target=int\ find111()
+comment4.params=
+comment4.target=int\ find110()
+numComments=5
